@@ -19,8 +19,10 @@
 - 1 ember repülés után (odavissza): `182.500 Ft`
 
 Lényeg: 182 ezer forinttal fogunk megérkezni Tokióba. Ez azt jelenti, hogy: 
-- `182.500/5=36.500 Ft`-unk lesz egy napra.
-- számoljunk `~30.000 Ft`-tal
+- `~30.000Ft`-unk lesz egy napra.
+- `~32.000Ft`-unk lesz más költségekre, amik
+  - Mobilnet: 4000yen = `12.000Ft`, ezután lesz még 20.000Ft-unk.
+  - Lakás: Jelenlegi helyünkön 8 óra az 2500 yen lenne (kb `7500Ft`)
 
 Más kiadások: 
 - [Mobilnet (`4000yen`)](https://tokyocheapo.com/business/internet/prepaid-cheap-japan-sim-card-options/)
